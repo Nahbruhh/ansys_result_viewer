@@ -6,7 +6,7 @@ Visualize Ansys `.rst` simulation results in 3D using PyDPF-Core and Streamlit.
 - Upload or load example files
 - Visualize Displacement or Von Mises Stress
 - Export interactive HTML plot
-- Built with PyVista + Streamlit
+- Built with PyVista + Streamlit + PyDPF
 
 ## How to Run
 
