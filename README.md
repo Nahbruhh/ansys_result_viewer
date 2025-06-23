@@ -1,5 +1,3 @@
-# ansys_result_viewer
-
 # Ansys Result Viewer
 
 Visualize Ansys `.rst` simulation results in 3D using PyDPF-Core and Streamlit.
